@@ -1,0 +1,68 @@
+body    {
+    background-color:#54996a;
+}
+
+h1 {
+    
+    font-family:  'Emilys Candy', cursive;
+    font-size: 300%;
+    text-align: center; /* Centering all h1 elements */
+    margin-top: 3%; /* Adds a small margin above h1 elements */
+    color: #fff98b; 
+    letter-spacing: .3vw;
+    
+}
+
+p {
+    font-family: 'Elsie', cursive, serif;
+    text-align: center; /* Justify text within paragraph elements */
+    letter-spacing: .1vw; /* This expands the text slightly */
+    font-size: 1.5vw;
+    padding-left: 1vw; /* Adds padding to the left of the paragraph element */
+    padding-right: 1vw; /* Adds padding to the right of the paragraph element */
+    
+}
+
+
+img {
+    
+    border-radius: 8px; 
+    max-width: 100%; 
+    height: 340px; 
+    display: block; 
+    margin: auto auto auto auto;
+}
+
+footer {
+    padding: 2%;
+    background-color: #fff98b;
+    }
+
+button {
+    border-radius: 8px;
+    font-family: 'Emilys Candy', cursive, Optima;
+    color: black;
+    background-color: #bffdff;
+    letter-spacing: .3vw; /* Adds slight spacing between the letters */
+    font-size: 1.5vw; /* Relative sizing of text */
+    font-weight: bold; 
+    padding: 1.5vw; /* Adds padding to the text in the button */
+    cursor: pointer; 
+    width: 100%; /* Sets the width of the buttons to 100% of their containers */
+    height: auto; 
+    margin: 0;
+}
+
+.container { 
+     height: 100px;
+     position: relative;
+}    
+        
+.center {
+        margin: 0;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        -ms-transform: translate(-50%, -50%);
+        transform: translate(-50%, -50%);
+    }

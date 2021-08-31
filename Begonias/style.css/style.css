@@ -1,0 +1,54 @@
+nav {
+    background-color: #d85d01;
+    color: white;
+
+}
+
+body {
+    background: linear-gradient(180deg, white, black) 100%;
+}
+
+.main-content   {
+    float: left;
+      
+}
+
+h1  {
+    font-family: 'Cinzel Decorative', cursive;
+    font-size: 32pt;
+    color: white;
+    margin-top: 30px;
+    margin-bottom: 15px;
+}
+
+p   {
+    font-family: 'Century gothic', sans-serif;
+    font-size: 12pt;
+
+}
+
+.sidebar-content {
+    min-height: 145px;
+    margin-bottom: 30px;
+    margin-left: 40px;
+    margin-top: 30px;
+    float: right;
+    justify-content: center;
+    
+}
+
+
+
+     
+     
+
+
+
+footer {
+    background-color: #d85d01;
+    overflow-x: hidden;
+    height: 50px;
+    opacity: 50%;
+    margin-left: -100px;
+    margin-right: -100px;
+}

@@ -1,0 +1,32 @@
+nav  {
+    color: #e6a555;
+    background-color: #006500;
+    font-family: avance pro;
+    font-size: 16pt;
+    
+}
+
+body    {
+    background-image: url(../images/teemu-paananen-OOE4xAnBhKo-unsplash.jpg);  
+}
+
+
+
+#img2   {
+    max-width: 70%;
+    max-height: auto;
+    padding-top: 50px;
+
+}
+
+footer  {
+    background-color: #006500;
+    overflow-x: hidden;
+    height: 50px;
+    opacity: 100%;
+    margin-left: -100px;
+    margin-right: -100px;
+}
+    
+}
+
